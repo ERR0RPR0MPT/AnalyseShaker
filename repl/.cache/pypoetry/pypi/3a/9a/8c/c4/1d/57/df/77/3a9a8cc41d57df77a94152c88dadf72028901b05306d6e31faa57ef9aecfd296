@@ -1,0 +1,1 @@
+9999999999{"name": "trio-websocket", "version": "0.9.2", "summary": "WebSocket library for Trio", "platform": "", "requires_dist": ["async-generator (>=1.10)", "trio (>=0.11)", "wsproto (>=0.14)"], "requires_python": ">=3.5", "files": [], "_cache_version": "1.0.0"}
